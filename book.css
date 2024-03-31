@@ -1,0 +1,11 @@
+.book{
+    font-size: 30px;
+    text-align: center;
+    
+}
+.ox{
+    width: 513px;
+    height: 50px;
+    margin-top: 15px;
+    border: 1px solid black;
+}
